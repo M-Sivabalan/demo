@@ -249,7 +249,7 @@ function Home() { // Capitalized component name
                     <div className="text-black font-sans text-center text-14">
                     Policies | All Rights Reserved
                     </div>
-                    <div className="text-black font-sans text-center-left">
+                    <div className="text-black font-sans bottom-center-left">
                     Site by Act One Media
                     </div>
                 </div>
